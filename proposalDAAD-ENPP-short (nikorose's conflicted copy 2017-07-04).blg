@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: proposalDAAD-ENPP-short.aux
+The style file: ieeetr.bst
+Database file #1: Proposal.bib
+Warning--entry type for "BIOMASME" isn't style-file defined
+--line 115 of file Proposal.bib
+Warning--entry type for "boston" isn't style-file defined
+--line 262 of file Proposal.bib
+Warning--entry type for "PAICMA" isn't style-file defined
+--line 677 of file Proposal.bib
+Warning--entry type for "workloop" isn't style-file defined
+--line 1187 of file Proposal.bib
+Warning--entry type for "Ossur" isn't style-file defined
+--line 2726 of file Proposal.bib
+Database file #2: patents.bib
+Warning--entry type for "han2014controlling" isn't style-file defined
+--line 18 of file patents.bib
+Warning--entry type for "han2012controlling" isn't style-file defined
+--line 32 of file patents.bib
+Warning--entry type for "herr2011controlling" isn't style-file defined
+--line 88 of file patents.bib
+Warning--entry type for "herr2014powered" isn't style-file defined
+--line 102 of file patents.bib
+Warning--entry type for "bloomberg" isn't style-file defined
+--line 116 of file patents.bib
+Warning--empty journal in KrogerKnut2015
+Warning--empty institution in Ramirez2014
+Warning--empty journal in Au2009
+Warning--can't use both volume and number fields in Shabana2013
+Warning--empty booktitle in Reis2016
+Warning--empty journal in Xu2016
+Warning--empty note in Talaty2014
+Warning--empty publisher in Wahl2013
+You've used 99 entries,
+            1876 wiz_defined-function locations,
+            1100 strings with 23688 characters,
+and the built_in function-call counts, 28509 in all, are:
+= -- 2827
+> -- 1278
+< -- 0
++ -- 465
+- -- 366
+* -- 2124
+:= -- 4045
+add.period$ -- 105
+call.type$ -- 99
+change.case$ -- 97
+chr.to.int$ -- 0
+cite$ -- 107
+duplicate$ -- 1375
+empty$ -- 2487
+format.name$ -- 366
+if$ -- 6878
+int.to.chr$ -- 0
+int.to.str$ -- 99
+missing$ -- 91
+newline$ -- 306
+num.names$ -- 99
+pop$ -- 268
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1069
+stack$ -- 0
+substring$ -- 1965
+swap$ -- 642
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 285
+width$ -- 101
+write$ -- 956
+(There were 18 warnings)
