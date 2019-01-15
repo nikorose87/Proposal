@@ -248,32 +248,26 @@ K.~Yu, A.~Ritchie, Y.~Mao, M.~L. Dunn, and H.~J. Qi, ``{Controlled Sequential
   Shape Changing Components by 3D Printing of Shape Memory Polymer
   Multimaterials},'' {\em Procedia IUTAM}, vol.~12, pp.~193--203, 2015.
 
-\bibitem{Gibson1997}
-L.~J. Gibson and M.~F. Ashby, {\em {Cellular solids. Structure and
-  properties}}.
-\newblock Cambridge University Press, 1997.
+\bibitem{Forrester2008}
+A.~I.~J. Forrester, A.~S{\'{o}}bester, and A.~J. Keane, {\em {Engineering
+  Design via surrogate optimization}}.
+\newblock 2008.
 
-\bibitem{Wang2016}
-K.~Wang, Y.~Zhao, Y.~H. Chang, Z.~Qian, C.~Zhang, B.~Wang, M.~A. Vannan, and
-  M.~J. Wang, ``{Controlling the mechanical behavior of dual-material 3D
-  printed meta-materials for patient-specific tissue-mimicking phantoms},''
-  {\em Materials and Design}, vol.~90, pp.~704--712, 2016.
+\bibitem{Sigmund2001}
+O.~Sigmund, ``{A 99 line topology optimization code written in matlab},'' {\em
+  Structural and Multidisciplinary Optimization}, vol.~21, no.~2, pp.~120--127,
+  2001.
 
-\bibitem{Chu2010}
-J.~Chu, S.~Engelbrecht, G.~Graf, and D.~W. Rosen, ``{A Comparison of Synthesis
-  Methods for Cellular Structures with Application to Additive
-  Manufacturing},'' {\em Rapid Prototyping Journal}, vol.~16, no.~4,
-  pp.~459--472, 2010.
+\bibitem{Andreassen2011}
+E.~Andreassen, A.~Clausen, M.~Schevenels, B.~S. Lazarov, and O.~Sigmund,
+  ``{Efficient topology optimization in MATLAB using 88 lines of code},'' {\em
+  Structural and Multidisciplinary Optimization}, vol.~43, no.~1, pp.~1--16,
+  2011.
 
-\bibitem{Okereke2014}
-M.~I. Okereke, A.~I. Akpoyomare, and M.~S. Bingley, ``{Virtual testing of
-  advanced composites, cellular materials and biomaterials: A review},'' {\em
-  Composites Part B: Engineering}, vol.~60, pp.~637--662, 2014.
-
-\bibitem{Heimbs2009}
-S.~Heimbs, ``{Virtual testing of sandwich core structures using dynamic finite
-  element simulations},'' {\em Computational Materials Science}, vol.~45,
-  pp.~205--216, apr 2009.
+\bibitem{Munk2015}
+D.~J. Munk, G.~A. Vio, and G.~P. Steven, ``{Topology and shape optimization
+  methods using evolutionary algorithms: a review},'' {\em Structural and
+  Multidisciplinary Optimization}, vol.~52, no.~3, pp.~613--631, 2015.
 
 \bibitem{Delp2007}
 S.~L. Delp, F.~C. Anderson, A.~S. Arnold, P.~Loan, A.~Habib, C.~T. John,

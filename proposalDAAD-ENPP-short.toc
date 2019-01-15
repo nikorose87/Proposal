@@ -3,9 +3,10 @@
 \contentsline {section}{\numberline {2}STATE OF THE ART}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}State of the Art about Ankle-Foot Prosthesis}{5}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Additive Manufacturing on Prosthesis}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Optimal Design}{12}{subsection.2.3}
 \contentsline {section}{\numberline {3}PROBLEM STATEMENT}{12}{section.3}
-\contentsline {subsection}{\numberline {3.1}Research Question}{13}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Hypothesis}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.1}Research Question}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Hypothesis}{12}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}General and Specific Objectives}{13}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}General Objective}{13}{subsubsection.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.2}Specific Objectives}{13}{subsubsection.3.3.2}

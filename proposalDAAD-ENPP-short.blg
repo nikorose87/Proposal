@@ -4,11 +4,11 @@ The top-level auxiliary file: proposalDAAD-ENPP-short.aux
 The style file: ieeetr.bst
 Database file #1: Proposal.bib
 Warning--entry type for "BIOMASME" isn't style-file defined
---line 115 of file Proposal.bib
+--line 140 of file Proposal.bib
 Warning--entry type for "boston" isn't style-file defined
---line 262 of file Proposal.bib
+--line 287 of file Proposal.bib
 Warning--entry type for "Ossur" isn't style-file defined
---line 2726 of file Proposal.bib
+--line 2862 of file Proposal.bib
 Database file #2: patents.bib
 Warning--entry type for "han2014controlling" isn't style-file defined
 --line 18 of file patents.bib
@@ -25,46 +25,47 @@ Warning--entry type for "bloomberg" isn't style-file defined
 Warning--empty journal in KrogerKnut2015
 Warning--empty journal in Au2009
 Warning--empty booktitle in Reis2016
+Warning--empty publisher in Forrester2008
 Warning--empty publisher in Wahl2013
-You've used 77 entries,
+You've used 76 entries,
             1876 wiz_defined-function locations,
-            965 strings with 19605 characters,
-and the built_in function-call counts, 22404 in all, are:
-= -- 2191
-> -- 1055
+            956 strings with 19250 characters,
+and the built_in function-call counts, 21969 in all, are:
+= -- 2146
+> -- 1035
 < -- 0
-+ -- 381
-- -- 304
-* -- 1683
-:= -- 3196
-add.period$ -- 81
-call.type$ -- 77
-change.case$ -- 74
++ -- 374
+- -- 298
+* -- 1654
+:= -- 3138
+add.period$ -- 80
+call.type$ -- 76
+change.case$ -- 73
 chr.to.int$ -- 0
 cite$ -- 81
-duplicate$ -- 1071
-empty$ -- 1942
-format.name$ -- 304
-if$ -- 5392
+duplicate$ -- 1051
+empty$ -- 1908
+format.name$ -- 298
+if$ -- 5286
 int.to.chr$ -- 0
-int.to.str$ -- 77
-missing$ -- 71
-newline$ -- 238
-num.names$ -- 77
-pop$ -- 220
+int.to.str$ -- 76
+missing$ -- 70
+newline$ -- 235
+num.names$ -- 76
+pop$ -- 218
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 836
+skip$ -- 814
 stack$ -- 0
-substring$ -- 1507
-swap$ -- 498
+substring$ -- 1462
+swap$ -- 485
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
-while$ -- 224
-width$ -- 79
-write$ -- 740
-(There were 13 warnings)
+warning$ -- 5
+while$ -- 220
+width$ -- 78
+write$ -- 731
+(There were 14 warnings)

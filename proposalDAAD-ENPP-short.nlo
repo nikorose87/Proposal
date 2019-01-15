@@ -1,12 +1,15 @@
 \nomenclatureentry{aESR@[{ESR}]\begingroup Energy Storage and Return prosthesis\nomeqref {0}|nompageref}{3}
 \nomenclatureentry{aIDF@[{IDF}]\begingroup International Diabetes Federation\nomeqref {0}|nompageref}{4}
-\nomenclatureentry{aQoL@[{QoL}]\begingroup Quality of Life\nomeqref {0}|nompageref}{4}
+\nomenclatureentry{aQoL@[{QoL}]\begingroup Quality of Life\nomeqref {0}|nompageref}{5}
 \nomenclatureentry{aIC@[{IC}]\begingroup Initial Contact\nomeqref {0}|nompageref}{5}
 \nomenclatureentry{aCoM@[{CoM}]\begingroup Center of Mass\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aPP@[{PP}]\begingroup Peak Power\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aER@[{ER}]\begingroup Energetic Requirement\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aPP@[{PP}]\begingroup Peak Power\nomeqref {0}|nompageref}{9}
+\nomenclatureentry{aER@[{ER}]\begingroup Energetic Requirement\nomeqref {0}|nompageref}{9}
 \nomenclatureentry{aAM@[{AM}]\begingroup Additive Manufacturing\nomeqref {0}|nompageref}{10}
 \nomenclatureentry{aCAD@[{CAD}]\begingroup Computer Aided Design\nomeqref {0}|nompageref}{10}
-\nomenclatureentry{aFEM@[{FEM}]\begingroup Finite Element Method\nomeqref {0}|nompageref}{12}
+\nomenclatureentry{aFEM@[{FEM}]\begingroup Finite Element Models\nomeqref {0}|nompageref}{12}
+\nomenclatureentry{aMDO@[{MDO}]\begingroup Multi Disciplinary Optimization\nomeqref {0}|nompageref}{12}
+\nomenclatureentry{aMOOA@[{MOOA}]\begingroup Multi Objective Optimization Algorithms\nomeqref {0}|nompageref}{12}
+\nomenclatureentry{aMOOA@[{MOOA}]\begingroup Multi Objective Evolutionary Algorithms\nomeqref {0}|nompageref}{12}
 \nomenclatureentry{aDES@[{DES}]\begingroup Discrete Element Method\nomeqref {0}|nompageref}{16}
 \nomenclatureentry{Series Elastic ActuatorSEA@[{SEA}]\begingroup Series Elastic Actuator\nomeqref {0}|nompageref}{26}

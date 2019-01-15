@@ -1897,20 +1897,6 @@
   Timestamp                = {2015.05.31}
 }
 
-@Book{Huang2010,
-  Title                    = {{Evolutionary Topology Optimisation of Continuum Structures. Methods and Applications}},
-  Author                   = {Huang, X. and Xie, Y.M.},
-  Year                     = {2010},
-
-  Doi                      = {10.1002/9780470689486},
-  File                     = {:home/nikorose/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Huang, Xie - 2010 - Evolutionary Topology Optimisation of Continuum Structures. Methods and Applications.pdf:pdf},
-  ISBN                     = {9780470746530},
-  Mendeley-groups          = {Optimization and Machine Learning/Topo Optimization},
-  Owner                    = {nikorose},
-  Pages                    = {237},
-  Timestamp                = {2019.01.15}
-}
-
 @TechReport{IDF2015,
   Title                    = {{Annual Report 2015}},
   Author                   = {IDF},
@@ -3776,23 +3762,6 @@ convolution operator?},
   Keywords                 = {Biomechatronics,Gait analysis,Impedance control,Mechanical system design,Powered prosthesis}
 }
 
-@Article{Suresh2010,
-  Title                    = {{A 199-line Matlab code for Pareto-optimal tracing in topology optimization}},
-  Author                   = {Suresh, Krishnan},
-  Journal                  = {Structural and Multidisciplinary Optimization},
-  Year                     = {2010},
-
-  Abstract                 = {The paper A 99-line topology optimization code written in Matlab by Sigmund (Struct Multidisc Optim 21(2):120127, 2001) demonstrated that SIMP-based topology optimization can be easily implemented in less than hundred lines of Matlab code. The published method and code has been used even since by numerous researchers to advance the field of topology optimization. Inspired by the above paper, we demonstrate here that, by exploiting the notion of topological-sensitivity (an alternate to SIMP), one can generate Pareto-optimal topologies in about twice the number of lines of Matlab code. In other words, optimal topologies for various volume fractions can be generated in a highly efficient manner, by directly tracing the Pareto-optimal curve.},
-  Doi                      = {10.1007/s00158-010-0534-6},
-  File                     = {:home/nikorose/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Suresh - 2010 - A 199-line Matlab code for Pareto-optimal tracing in topology optimization.pdf:pdf},
-  ISBN                     = {1615-147X},
-  ISSN                     = {1615147X},
-  Keywords                 = {Pareto-optimal,Topological sensitivity,Topology optimization},
-  Mendeley-groups          = {Optimization and Machine Learning/Topo Optimization},
-  Owner                    = {nikorose},
-  Timestamp                = {2019.01.15}
-}
-
 @Article{Sutherland2005,
   Title                    = {{The evolution of clinical gait analysis part III--kinetics and energy assessment.}},
   Author                   = {Sutherland, D H},
@@ -4268,25 +4237,6 @@ convolution operator?},
   File                     = {:C$\backslash$:/Users/nikor\_000/Dropbox/Mendeley Desktop/Unknown/Wang et al/Unknown/RAM\_V4.pdf:pdf},
   Owner                    = {nikor_000},
   Timestamp                = {2015.05.31}
-}
-
-@Article{Wang2006,
-  Title                    = {{An enhanced genetic algorithm for structural topology optimization}},
-  Author                   = {Wang, S. Y. and Tai, K. and Wang, M. Yu},
-  Journal                  = {International Journal for Numerical Methods in Engineering},
-  Year                     = {2006},
-  Number                   = {1},
-  Pages                    = {18--44},
-  Volume                   = {65},
-
-  Abstract                 = {Genetic algorithms (GAs) have become a popular optimization tool for many areas of research and topology optimization an effective design tool for obtaining efficient and lighter structures. In this paper, a versatile, robust and enhanced GA is proposed for structural topology optimization by using problem-specific knowledge. The original discrete black-and-white (0-1) problem is directly solved by using a bit-array representation method. To address the related pronounced connectivity issue effectively, the four-neighbourhood connectivity is used to suppress the occurrence of checkerboard patterns. A simpler version of the perimeter control approach is developed to obtain a well-posed problem and the total number of hinges of each individual is explicitly penalized to achieve a hinge-free design. To handle the problem of representation degeneracy effectively, a recessive gene technique is applied to viable topologies while unusable topologies are penalized in a hierarchical manner. An efficient FEM-based function evaluation method is developed to reduce the computational cost. A dynamic penalty method is presented for the GA to convert the constrained optimization problem into an unconstrained problem without the possible degeneracy. With all these enhancements and appropriate choice of the GA operators, the present GA can achieve significant improvements in evolving into near-optimum solutions and viable topologies with checkerboard free, mesh independent and hinge-free characteristics. Numerical results show that the present GA can be more efficient and robust than the conventional GAs in solving the structural topology optimization problems of minimum compliance design, minimum weight design and optimal compliant mechanisms design. It is suggested that the present enhanced GA using problem-specific knowledge can be a powerful global search tool for structural topology optimization. Copyright {\&}copy; 2005 John Wiley {\&} Sons, Ltd.},
-  Doi                      = {10.1002/nme.1435},
-  File                     = {:home/nikorose/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang, Tai, Wang - 2006 - An enhanced genetic algorithm for structural topology optimization.pdf:pdf},
-  ISSN                     = {00295981},
-  Keywords                 = {Bit-array representation,Black-and-white design,Connectivity analysis,Genetic algorithms,Hinge-free-design,Topology optimization},
-  Mendeley-groups          = {Optimization and Machine Learning/Topo Optimization},
-  Owner                    = {nikorose},
-  Timestamp                = {2019.01.15}
 }
 
 @Article{Waters1999,

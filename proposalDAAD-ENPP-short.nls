@@ -3,27 +3,33 @@
  \nomgroup{A}
 
   \item [{AM}]\begingroup Additive Manufacturing\nomeqref {0}
-		\nompageref{10}
+		\nompageref{9}
   \item [{CAD}]\begingroup Computer Aided Design\nomeqref {0}
-		\nompageref{10}
-  \item [{COM}]\begingroup Center Of Mass\nomeqref {0}\nompageref{9}
+		\nompageref{9}
+  \item [{CoM}]\begingroup Center of Mass\nomeqref {0}\nompageref{5}
   \item [{DES}]\begingroup Discrete Element Method\nomeqref {0}
-		\nompageref{16}
+		\nompageref{13}
   \item [{ER}]\begingroup Energetic Requirement\nomeqref {0}
 		\nompageref{8}
   \item [{ESR}]\begingroup Energy Storage and Return prosthesis\nomeqref {0}
 		\nompageref{3}
-  \item [{FEM}]\begingroup Finite Element Method\nomeqref {0}
-		\nompageref{12}
-  \item [{IC}]\begingroup Initial Contact\nomeqref {0}\nompageref{5}
+  \item [{FEM}]\begingroup Finite Element Models\nomeqref {0}
+		\nompageref{10}
+  \item [{IC}]\begingroup Initial Contact\nomeqref {0}\nompageref{4}
   \item [{IDF}]\begingroup International Diabetes Federation\nomeqref {0}
 		\nompageref{4}
+  \item [{MDO}]\begingroup Multi Disciplinary Optimization\nomeqref {0}
+		\nompageref{10}
+  \item [{MOOA}]\begingroup Multi Objective Evolutionary Algorithms\nomeqref {0}
+		\nompageref{10}
+  \item [{MOOA}]\begingroup Multi Objective Optimization Algorithms\nomeqref {0}
+		\nompageref{10}
   \item [{PP}]\begingroup Peak Power\nomeqref {0}\nompageref{8}
   \item [{QoL}]\begingroup Quality of Life\nomeqref {0}\nompageref{4}
 
  \nomgroup{S}
 
   \item [{SEA}]\begingroup Series Elastic Actuator\nomeqref {0}
-		\nompageref{26}
+		\nompageref{23}
 
 \end{thenomenclature}
